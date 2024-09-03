@@ -1,6 +1,6 @@
 package com.amzur.controller
 
-import com.amzur.entity.Users
+
 import io.micronaut.configuration.kafka.annotation.KafkaListener
 import io.micronaut.configuration.kafka.annotation.Topic
 import org.slf4j.Logger
